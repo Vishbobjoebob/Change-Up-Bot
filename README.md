@@ -1,3 +1,3 @@
-# Change-Up-Bot-Worlds
+# Change-Up-Bot-States
 
-Code for VEX Change Up Worlds Robot
+Code for VEX Change Up States Robot
